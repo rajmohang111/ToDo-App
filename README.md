@@ -1,6 +1,18 @@
-## Angular: TODO List
+# Angular 2 Todo application
 
-* To install clone the repository https://github.com/rajmohang111/ToDo-App/
-* To install dependencies, execute `npm install`.
-* To run the application execute `npm start`.
-* Application will start at http://localhost:4200/.
+## Steps to Setup
+
+**1. Clone the application**
+
+```bash
+git clone https://github.com/rajmohang111/ToDo-App
+```
+
+**2. Build and run th app using npm**
+
+```bash
+cd ToDo-App
+npm install
+npm start
+```
+The backend server will start at <http://localhost:4200>.
